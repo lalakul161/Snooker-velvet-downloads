@@ -1,8 +1,8 @@
 # Velvet Snooker — Windows 11
 
-[Download Velvet Snooker 1.10.10](https://github.com/lalakul161/Snooker-velvet-downloads/releases/download/v1.10.10/Velvet-Snooker-1.10.10-Windows11.zip)
+[Download Velvet Snooker 1.10.14](https://github.com/lalakul161/Snooker-velvet-downloads/releases/download/v1.10.14/Velvet-Snooker-1.10.14-Windows11.zip)
 
-[Release notes](https://github.com/lalakul161/Snooker-velvet-downloads/releases/tag/v1.10.10)
+[Release notes](https://github.com/lalakul161/Snooker-velvet-downloads/releases/tag/v1.10.14)
 
 1. Download the ZIP archive.
 2. Right-click it and choose **Extract All**.
